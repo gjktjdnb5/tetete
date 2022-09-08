@@ -1,2 +1,2 @@
 blah blah blah
-new string
+new string new
